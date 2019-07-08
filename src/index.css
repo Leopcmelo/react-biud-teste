@@ -1,0 +1,33 @@
+body, html {
+  height: 100% !important;
+  margin: 0 !important;
+}
+.bg { 
+  /* The image used */
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* CSS ADICIONAL*/
+.a0login .inputLogin{
+  background-color    : rgba(255,255,255,0.0);
+  color               : white;
+  border              : none;
+  font-size           : large;
+  width               : 380px; 
+}
+
+.a0login .buttonLogin{
+  border              : none;
+  font-size           : medium;
+  background          : none;
+  width               : 375px;
+  height              : 50px;
+}
